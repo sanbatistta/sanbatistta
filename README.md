@@ -24,7 +24,7 @@ Here are some ideas to get you started:
 Meu nome é Assuerio. Sou Desenvolvedor Backend .Net Core Júnior e atualmente estou cursando o 6º período de Sistemas de Informação pela PUC Minas. 
 
 
-Habilidades: C#, Cobol, JavaScript, Python, Microsoft SQL Server, IBM DB2, Oracle SQL, MySQL, Microsoft .Net Core, Microsoft EntityFrameWork Core, Selenium, Ionic, Angular, Scrum, HTML, CSS, SSIS Packages.
+Habilidades: C#, Cobol, JavaScript, Python, Microsoft SQL Server, IBM DB2, Oracle SQL, MySQL, Microsoft .Net Core, Microsoft EntityFrameWork Core, Selenium, Ionic, Angular, Scrum.
 
 
 <!--
